@@ -14,3 +14,11 @@ https://github.com/ua-gist604b-fall-2021/0-2-github-hello-heatherbarnard/blob/ma
 •	Assignment: Intro to QGIS-  Master link:  https://github.com/ua-gist604b-fall-2021/2-0-qgis-intro-heatherbarnard.git 
 •	
 •	Assignment link - https://github.com/ua-gist604b-fall-2021/2-0-qgis-intro-heatherbarnard/tree/assignment
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+Added: 2-1 QGIS Hurricane Ida
+https://github.com/ua-gist604b-fall-2021/2-1-qgis-hurricane-heatherbarnard/tree/Assignment
