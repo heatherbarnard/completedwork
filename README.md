@@ -22,3 +22,5 @@ https://github.com/ua-gist604b-fall-2021/0-2-github-hello-heatherbarnard/blob/ma
 ------------------------------------------------------------------------------------------------------------------------------------------------
 Added: 2-1 QGIS Hurricane Ida
 https://github.com/ua-gist604b-fall-2021/2-1-qgis-hurricane-heatherbarnard/tree/Assignment
+2-2 QGIS Tutorials (Intermediate)
+https://github.com/ua-gist604b-fall-2021/2-2-qgis-intermediate-heatherbarnard/tree/Assignment
