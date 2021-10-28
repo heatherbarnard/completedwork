@@ -13,6 +13,7 @@ https://github.com/ua-gist604b-fall-2021/0-2-github-hello-heatherbarnard/blob/ma
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 Module 2</br>
+
 Added: 2-1 QGIS Hurricane Ida</br>
 https://github.com/ua-gist604b-fall-2021/2-1-qgis-hurricane-heatherbarnard/tree/Assignment</br>
 
