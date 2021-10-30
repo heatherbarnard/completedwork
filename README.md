@@ -23,3 +23,10 @@ https://github.com/ua-gist604b-fall-2021/2-2-qgis-intermediate-heatherbarnard/tr
 2-3 QGIS Tutorials (Advanced)</br>
 ****** When addding screencap-precip-by-year-table.png, i keep gtting a python error...I am not sure how to fix it and i did follow the directions in the tutorial.</br>
 https://github.com/ua-gist604b-fall-2021/2-3-qgis-advanced-heatherbarnard</br>
+
+2-4 QGIS Secret Mutant Hero Team</br>
+https://github.com/ua-gist604b-fall-2021/2-4-qgis-mutant-team-heatherbarnard</br>
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+Module 3</br>
