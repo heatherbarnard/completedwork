@@ -32,7 +32,7 @@ https://github.com/ua-gist604b-fall-2021/2-4-qgis-mutant-team-heatherbarnard</br
 Module 3</br>
 
 3-0 Python Pandas</br>
-https://github.com/ua-gist604b-fall-2021/3-0-python-pandas-heatherbarnard</br>
+https://github.com/ua-gist604b-fall-2021/3-0-python-pandas-heatherbarnard/tree/pandas</br>
 
 3-1 Python GeoPandas Intro</br>
 
