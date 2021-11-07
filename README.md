@@ -35,7 +35,7 @@ Module 3</br>
 https://github.com/ua-gist604b-fall-2021/3-0-python-pandas-heatherbarnard/tree/pandas</br>
 
 3-1 Python GeoPandas Intro</br>
-
-
+https://github.com/ua-gist604b-fall-2021/3-1-python-geopandas-intro-heatherbarnard/tree/geopandas</br>
 
 3-2 Python GeoPandas Join</br>
+https://github.com/ua-gist604b-fall-2021/3-2-python-geopandas-join-heatherbarnard/tree/Geopandas</br>
