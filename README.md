@@ -46,3 +46,6 @@ https://github.com/ua-gist604b-fall-2021/3-1-python-geopandas-intro-heatherbarna
 
 3-2 Python GeoPandas Join</br>
 https://github.com/ua-gist604b-fall-2021/3-2-python-geopandas-join-heatherbarnard/tree/Geopandas</br>
+
+3-3 Python Rasterio Join</br>
+https://github.com/ua-gist604b-fall-2021/3-3-python-rasterio-intro-heatherbarnard/tree/rasterio</br>
