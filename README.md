@@ -52,3 +52,14 @@ https://github.com/ua-gist604b-fall-2021/3-3-python-rasterio-intro-heatherbarnar
 
 3-4 Python Rasterstats</br>
 https://github.com/ua-gist604b-fall-2021/3-4-python-rasterstats-heatherbarnard/tree/rasterstats</br>
+
+3-5 Jupyter Notebooks</br>
+I am still completeting this one</br>
+https://github.com/ua-gist604b-fall-2021/3-5-jupyter-notebooks-heatherbarnard/tree/assignment</br>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+Module 4</br>
+
+4-0 Docker Intro</br>
+https://github.com/ua-gist604b-fall-2021/4-0-docker-intro-heatherbarnard/tree/solution
