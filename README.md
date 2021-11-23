@@ -62,4 +62,11 @@ https://github.com/ua-gist604b-fall-2021/3-5-jupyter-notebooks-heatherbarnard/tr
 Module 4</br>
 
 4-0 Docker Intro</br>
-https://github.com/ua-gist604b-fall-2021/4-0-docker-intro-heatherbarnard/tree/solution
+https://github.com/ua-gist604b-fall-2021/4-0-docker-intro-heatherbarnard/tree/solution</br>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+Module 5</br>
+
+5-0 PostGIS Docker Setup</br>
+https://github.com/ua-gist604b-fall-2021/5-0-postgis-docker-setup-heatherbarnard/tree/solution</br>
