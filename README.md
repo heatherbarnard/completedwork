@@ -70,3 +70,10 @@ Module 5</br>
 
 5-0 PostGIS Docker Setup</br>
 https://github.com/ua-gist604b-fall-2021/5-0-postgis-docker-setup-heatherbarnard/tree/solution</br>
+
+5-1 PostGis</br>
+https://github.com/ua-gist604b-fall-2021/5-1-postgis-intro-heatherbarnard/tree/postgis</br>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+
