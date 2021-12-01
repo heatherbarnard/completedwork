@@ -77,3 +77,11 @@ https://github.com/ua-gist604b-fall-2021/5-1-postgis-intro-heatherbarnard/tree/p
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+6-0 Geoserver Setup</br>
+https://github.com/ua-gist604b-fall-2021/6-0-geoserver-setup-w-docker-compose-heatherbarnard/tree/compose</br>
+
+6-1 Geoserver Intro</br>
+
+
+6-2 PostGIS and Geoserver
+
