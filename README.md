@@ -83,5 +83,6 @@ https://github.com/ua-gist604b-fall-2021/6-0-geoserver-setup-w-docker-compose-he
 6-1 Geoserver Intro</br>
 https://github.com/ua-gist604b-fall-2021/6-1-geoserver-intro-heatherbarnard/tree/geoserver</br>
 
-6-2 PostGIS and Geoserver
+6-2 PostGIS and Geoserver</br>
+
 
