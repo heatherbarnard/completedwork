@@ -54,7 +54,7 @@ https://github.com/ua-gist604b-fall-2021/3-3-python-rasterio-intro-heatherbarnar
 https://github.com/ua-gist604b-fall-2021/3-4-python-rasterstats-heatherbarnard/tree/rasterstats</br>
 
 3-5 Jupyter Notebooks</br>
-I am still completeting this one</br>
+***Completed
 https://github.com/ua-gist604b-fall-2021/3-5-jupyter-notebooks-heatherbarnard/tree/assignment</br>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
